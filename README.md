@@ -15,8 +15,11 @@
 Установите Zapret:
 
 git clone https://github.com/bol-van/zapret.git
+
 cd zapret
+
 sudo ./install_easy.sh
+
 При установке выбирайте движок nfqws и списки antizapret.
 
 ⚙️ 2. Оптимальный конфиг (Файл /opt/zapret/config)
